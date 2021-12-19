@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilyer
-- 👀 I’m interested in ...
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning HTML, CSS and PHP
 
 
